@@ -1,8 +1,8 @@
 {
-    "static_param": "FZhFjXmwJax7e4stiQ3EKzwmFJPcAriS",
-    "format": "10:{}:{:x}:609e5711",
-    "checksum_indexes": [29, 20, 37, 7, 13, 13, 36, 31, 8, 6, 23, 34, 5, 30, 15, 27, 10, 34, 38, 1, 30, 37, 17, 7, 22, 37, 9, 30, 36, 32, 0, 5],
-    "checksum_constant": -218,
+    "static_param": "",
+    "format": "13:{}:{:x}:609e7984",
+    "checksum_indexes": [38, 34, 24, 10, 32, 21, 24, 16, 15, 32, 19, 22, 11, 30, 28, 6, 27, 10, 33, 17, 32, 30, 0, 10, 21, 33, 21, 39, 7, 30, 8, 13],
+    "checksum_constant": 857,
     "error_code": 0,
     "message": ""
 }
