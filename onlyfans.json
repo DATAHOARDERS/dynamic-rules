@@ -1,8 +1,8 @@
 {
-    "static_param": "vAiP6f5LgLXB7glzA94GBOpMqqIBvRRf",
-    "format": "1594:{}:{:x}:6197afcd",
-    "checksum_indexes": [20,4,30,24,16,18,39,18,16,20,28,12,4,11,3,0,37,33,15,17,37,30,16,8,18,12,20,8,32,34,2,23],
-    "checksum_constant": 421,
+    "static_param": "8wwlPAuASNc3RNRgTuQKLukIaAyIt93r",
+    "format": "1608:{}:{:x}:6198f355",
+    "checksum_indexes": [7,8,39,5,28,1,2,2,15,35,15,3,20,33,32,30,15,5,30,15,15,13,17,31,2,17,30,22,26,17,28,19],
+    "checksum_constant": -1014,
     "app_token": "33d57ade8c02dbc5a333db99ff9ae26a",
     "remove_headers": ["user-id"],
     "error_code": 0,
