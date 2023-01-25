@@ -1,9 +1,9 @@
 ## dynamic rules for [OnlyFans DataScraper](https://github.com/DIGITALCRIMINALS/OnlyFans)
 Credit to [Hippothon](https://github.com/hippothon) for reversing the algorithm.
 
-Maintained by [DIGITALCRIMINALS](https://github.com/DIGITALCRIMINALS)
-
 I'd like to thank [OFFriend](https://github.com/OFFriend) for providing automatic commits for years keeping the project alive, they've retired.
+
+Maintained by [DIGITALCRIMINALS](https://github.com/DIGITALCRIMINALS)
 
 ------
 I'm manually updating my fork.
