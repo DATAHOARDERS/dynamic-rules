@@ -2,7 +2,8 @@
 Credit to [Hippothon](https://github.com/hippothon) for reversing the algorithm.
 
 Maintained by [DIGITALCRIMINALS](https://github.com/DIGITALCRIMINALS)
-S/O to [OFFriend](https://github.com/OFFriend) for providing automatic commits for years keeping the project alive.
+
+I'd like to thank [OFFriend](https://github.com/OFFriend) for providing automatic commits for years keeping the project alive, they've retired.
 
 ------
 I'm manually updating my fork.
