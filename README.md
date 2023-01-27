@@ -7,8 +7,8 @@ Maintained by [DIGITALCRIMINALS](https://github.com/DIGITALCRIMINALS)
 
 ------
 I'm manually updating my fork.
-There's other forks that automatically update their rules and use the same format as my config.
+There's other providers that automatically update their rules and use the same format as my config.
 
-Feel free to use the following:
+Thanks to the following:
 
 * https://github.com/deviint/onlyfans-dynamic-rules
