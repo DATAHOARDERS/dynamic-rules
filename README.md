@@ -11,4 +11,4 @@ There's other providers that automatically update their rules and use the same f
 
 Thanks to the following:
 
-* https://github.com/deviint/onlyfans-dynamic-rules
+* ...
