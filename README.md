@@ -1,14 +1,13 @@
-## dynamic rules for [OnlyFans DataScraper](https://github.com/DIGITALCRIMINALS/OnlyFans)
-Credit to [Hippothon](https://github.com/hippothon) for reversing the algorithm.
+## Dynamic Rules for [UltimaScraper API](https://github.com/UltimaHoarder/UltimaScraperAPI)
 
-I'd like to thank [OFFriend](https://github.com/OFFriend) for providing automatic commits for years keeping the project alive, they've retired.
+Special thanks to **[Hippothon](https://github.com/hippothon)** for reversing the core algorithm that makes these rules possible.
 
-Maintained by [DIGITALCRIMINALS](https://github.com/DIGITALCRIMINALS)
+Huge appreciation to **[OFFriend](https://github.com/OFFriend)**, who provided automated commits for years and helped keep the project alive before retiring.
 
-------
-I'm manually updating my fork.
-There's other providers that automatically update their rules and use the same format as my config.
+Currently maintained by **[UltimaHoarder](https://github.com/UltimaHoarder)**.
 
-Thanks to the following:
+---
 
-* ...
+### Update Status
+
+This fork is updated manually.
