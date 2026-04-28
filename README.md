@@ -10,4 +10,4 @@ Currently maintained by **[UltimaHoarder](https://github.com/UltimaHoarder)**.
 
 ### Update Status
 
-This fork is updated manually.
+Rules are updated when it needs to be.
